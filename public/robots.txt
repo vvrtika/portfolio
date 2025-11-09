@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vartika.dev/sitemap.xml
